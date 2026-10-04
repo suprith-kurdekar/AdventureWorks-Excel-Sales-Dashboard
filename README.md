@@ -6,6 +6,10 @@ This project was completed as part of my **Data Analytics training and project w
 
 The project focused on data cleaning, data transformation, data modeling, analysis, and the development of an interactive Excel dashboard to analyze sales and business performance.
 
+## 📊 Dashboard Preview
+
+![AdventureWorks Sales Dashboard](AdventureWorks_Excel_Sales_Dashboard..png)
+
 ## 🎯 Project Objectives
 
 - Clean and prepare the AdventureWorks data for analysis
